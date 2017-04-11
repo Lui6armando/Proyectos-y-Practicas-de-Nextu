@@ -20,6 +20,12 @@
               </ul>
         </p>
   </header>  
-    
+    <nav>
+           <ul>
+               <li><a href="F:/Universidad nextu/Evaluaciones/Fundamentos de html/index.html">Inicio</a></li>
+               <li><a href="F:/Universidad nextu/Evaluaciones/Fundamentos de html/Educacion.html">Educacion</a></li>
+               <li><a href="F:/Universidad nextu/Evaluaciones/Fundamentos de html/Experiencia.html">Experiencia</a></li>
+           </ul>
+  </nav>
   </body>
 </html>
