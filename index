@@ -11,6 +11,14 @@
           <image xlink:href="F:/Universidad nextu/Evaluaciones/Fundamentos de html/imagenes/logo_1.svg" width="300px" heigth="300px"></image>
         </svg>
 </header>
-    
+    <h1>Hoja de Vida</h1>
+        <h2>Luis Armando Aguilar Ibarra</h2>
+<nav>
+        <ul>
+            <li><a href="F:/Universidad nextu/Evaluaciones/Fundamentos de html/index.html">Inicio</a></li>
+            <li><a href="F:/Universidad nextu/Evaluaciones/Fundamentos de html/Educacion.html">Educacion</a></li>
+            <li><a href="F:/Universidad nextu/Evaluaciones/Fundamentos de html/Experiencia.html">Experiencia</a></li>
+        </ul>
+</nav>
   </body>
 </html>
