@@ -26,6 +26,66 @@
         <li><a href="F:/Universidad nextu/Evaluaciones/Fundamentos de html/Experiencia.html">Experiencia</a></li>
     </ul>
 </nav>
-    
+    <section>
+    <h2>Educacion</h2>
+      <table border="1" cellpancing="1" cellspancing="1">
+      <thead>
+          <tr>
+            <th>Año</th>
+            <th>Institucion</th>
+            <th>Lugar</th>
+            <th>¿Culmino?</th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr>
+            <th>2004-2007</th>
+            <th>Secundaria #36</th>
+            <th>Queretaro</th>
+            <th>Si</th><br/>
+          </tr>
+          <tr>
+            <th>2007-2010</th>
+            <th>Instituto ISCCA</th>
+            <th>Queretaro</th>
+            <th>Si</th>
+          </tr>
+          <tr>
+            <th>2010-2012</th>
+            <th>Universidad Polotecnica</th>
+            <th>Queretaro</th>
+            <th>No</th>
+          </tr>
+      </tbody>
+      </table>
+      <form action="">
+        <h2>Agregar Datos</h2>
+      <p>
+          <label>Año </label>
+          <select>
+            <option value="1">2017</option>
+            <option value="1">2016</option>
+            <option value="1">2015</option>
+            <option value="1">2014</option>
+            <option value="1">2013</option>
+          </select>
+      </p>
+      <p>
+          <label>Institucion</label>
+          <input type="text" placeholder="Ej.Iscca" required="">
+      </p>
+      <p>
+          <label>Lugar</label>
+          <textarea name="name" rows="4" cols="20"></textarea>
+      </p>
+      <p>
+          <label>¿Culmino?</lable>
+            <input type="radio" name="name">Si
+            <input type="radio" name="name">No<br/>
+      </p>
+      <p>
+          <input type="Submit" value="Enviar">
+      </p>
+  </section>
   </body>
 </html>
