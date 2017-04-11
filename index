@@ -2,9 +2,15 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <title>hoja de Vida</title>
     <title></title>
   </head>
   <body>
+  <header>
+        <svg>
+          <image xlink:href="F:/Universidad nextu/Evaluaciones/Fundamentos de html/imagenes/logo_1.svg" width="300px" heigth="300px"></image>
+        </svg>
+</header>
     
   </body>
 </html>
