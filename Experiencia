@@ -44,5 +44,15 @@
             </audio>
         </p>
  </section>
+ <footer>
+            <h3>Derechos Reservados</h3>
+            <h4>Medios de Contacto</h4>
+                <ul>
+                  <li>Correo :<a href="mailto:Peque_44214934509@hotmail.com">Peque_44214934509@hotmail.com</a></li>
+                  <li>Telefono :4425160567</li>
+                  <li>Direccion:Queretaro,Qro Col.Lomas de Satelite #107</li>
+                </ul>
+  </footer>
+</body>
   </body>
 </html>
