@@ -8,7 +8,7 @@
   <body>
   <header>
       <svg>
-        <image xlink:href="F:/Universidad nextu/Evaluaciones/Fundamentos de html/imagenes/logo_1.svg" width="300px" heigth="300px"></image>
+        <image xlink:href="imagenes/logo_1.svg" width="300px" heigth="300px"></image>
       </svg>
 
          <p>
@@ -22,9 +22,9 @@
   </header>  
     <nav>
            <ul>
-               <li><a href="F:/Universidad nextu/Evaluaciones/Fundamentos de html/index.html">Inicio</a></li>
-               <li><a href="F:/Universidad nextu/Evaluaciones/Fundamentos de html/Educacion.html">Educacion</a></li>
-               <li><a href="F:/Universidad nextu/Evaluaciones/Fundamentos de html/Experiencia.html">Experiencia</a></li>
+               <li><a href="index.html">Inicio</a></li>
+               <li><a href="Educacion.html">Educacion</a></li>
+               <li><a href="Experiencia.html">Experiencia</a></li>
            </ul>
   </nav>
   <section>
@@ -32,14 +32,14 @@
             <h3>Aspiracion Futura</h3>
          <p>
             <video controls>
-            <source src="F:/Universidad nextu/Evaluaciones/Fundamentos de html/video/aspiracion.webm" type="video/webm">
+            <source src="video/aspiracion.webm" type="video/webm">
             Texto por si el browser no soporta el video
             </video>
         </p>
             <h3>Pasatiempos</h3>
         <p>
             <audio controls>
-              <source src="F:/Universidad nextu/Evaluaciones/Fundamentos de html/audio/Mi grabacion.wav" type="audio/wav">
+              <source src="Mi grabacion.wav" type="audio/wav">
                 Texto cuando tu browser no soporta audio
             </audio>
         </p>
