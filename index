@@ -8,21 +8,20 @@
   <body>
   <header>
         <svg>
-          <image xlink:href="F:/Universidad nextu/Evaluaciones/Fundamentos de html/imagenes/logo_1.svg" width="300px" heigth="300px"></image>
-        </svg>
-</header>
-    <h1>Hoja de Vida</h1>
+          <image xlink:imagenes/logo_1.svg" width="300px" heigth="300px"></image>        
+          </s</header
+         <h1>Hoja de Vida</h1>
         <h2>Luis Armando Aguilar Ibarra</h2>
 <nav>
         <ul>
-            <li><a href="F:/Universidad nextu/Evaluaciones/Fundamentos de html/index.html">Inicio</a></li>
-            <li><a href="F:/Universidad nextu/Evaluaciones/Fundamentos de html/Educacion.html">Educacion</a></li>
-            <li><a href="F:/Universidad nextu/Evaluaciones/Fundamentos de html/Experiencia.html">Experiencia</a></li>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="Educacion.html">Educacion</a></li>
+            <li><a href="Experiencia.html">Experiencia</a></li>
         </ul>
 </nav>
 <section>
      <h2>Infomacion Personal</h2>
-         <img src="F:/Universidad nextu/Evaluaciones/Fundamentos de html/imagenes/perfil.jpg" width="250" height="300"/>
+         <img src="imagenes/perfil.jpg" width="250" height="300"/>
          <p>
            <ul>
              <li>Nombre:<strong> Luis Armando </strong></li>
@@ -47,7 +46,7 @@
         <footer>
         <h3>Derechos Reservados</h3>
           <ul>
-            <li>Correo :<a href="mailto:Peque_44214934509@hotmail.com">Peque_44214934509@hotmail.com</a></li>
+            <li>Correo :<a href="mailto:Peque_44214934509@hotmail.com">Peque_44214934509@hotmail.com</a></li
             <li>Telefono :4425160567</li>
             <li>Direccion:Queretaro,Qro Col.Lomas de Satelite #107</li>
           </ul>
